@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights.sdk"
+    },
+    "storage2": {
+      "secretStore": null,
+      "type": "storage.emulator",
+      "connectionId": "AzureWebJobsStorageConnectionString",
+      "dynamicId": null
+    }
+  }
+}

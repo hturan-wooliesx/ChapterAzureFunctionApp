@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ChapterBlobProcessorAzureFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7249"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "DockerfileRunArguments": "--init",
+      "httpPort": 30935,
+      "useSSL": false
+    }
+  }
+}
