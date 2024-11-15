@@ -13,3 +13,6 @@ Due to an error in Azurite with connecting local queue storages or blob containe
 
 # Function Types
 In the solution, common Azure function use cases and type of functions that are relevant for business use cases created. They are HTTP triggered, Timer triggered and Blob triggered functions. 
+
+# Published Function App on Azure
+Published app on Azure DEV environment can be found here. https://portal.azure.com/#@woolworthsgroup.com.au/resource/subscriptions/f5261f82-adb5-4a60-8bde-ca6690ba8737/resourceGroups/wow-dev-ecommerce-aae/providers/Microsoft.Web/sites/FunctionApp120190214032906/appServices
